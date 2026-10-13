@@ -109,7 +109,7 @@ export default function UpgradePaymentPage() {
               <p className="text-gray-700 mb-1 text-sm flex items-center gap-1">
                 <span>🏦</span> Bank Name
               </p>
-              <p className="font-bold">0253853566</p>
+              <p className="font-bold">MOMO PAYMENT</p>
             </div>
 
             <div>
